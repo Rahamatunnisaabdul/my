@@ -1,0 +1,19 @@
+Task: Explore in Google and Make a document :
+
+1. What is Data Science? 
+A.data science is the multidiscipilinary approch that combines principles and practices from the fields and mathemetics statistics artificial intiligence
+2. Importance of statistics in Data Science?
+A.the major importence of uses of data science includes of combining domain knowledge from statistics programing mathemetics to provide insights
+3. What is Data engineering?
+A.data engineering is the practice of the disginig and building systems for collecting storing enalaysing data at scale
+4. What is Data visualization?
+A.data visualization is the graphiocal representation of information and data by using visual element like charts graphs and maps data visualization tools
+5. What is Data cleaning?
+A.data cleaning process of fixing of removing of incorrectpt corrupted incorrectly formatted dublicate or incomplete data with in a dataset
+6. What is python and why we use it?
+7. What is Data in statistics?
+8. What is statistcs?
+9. What is mathematics ?
+10. What is computer Science?
+11. What is programming language?
+ 
