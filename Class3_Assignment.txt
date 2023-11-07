@@ -1,0 +1,19 @@
+Task: Explore in Google and Make a document :
+
+1. What is open source tool?
+Open-source software is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose. Open-source software may be developed in a collaborative, public manner
+
+2. What is paid tool?
+Top Paid SEO Tools To Use in 2023 · SpyFu · Moz Pro · Ahrefs · SEMrush · Yoast Premium · Majestic · Screaming Frog SEO Spider 
+
+3. what is anaconda and why we use it?
+Anaconda software helps you create an environment for many different versions of Python and package versions. Anaconda is also used to install, remove, and upgrade packages in your project environments
+4. What is difference between version in python?
+5. What is difference between .exe file and .setup file?
+6. What is difference between anaconda navigator and anaconda prompt?
+7. What is difference between jupyter and spider tool?
+8. What is difference between Development, Testing and Deployment?
+9. Why we use jupyter terminal ?
+10. What is files, running and cluster in juypter?
+
+
