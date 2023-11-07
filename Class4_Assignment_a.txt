@@ -1,0 +1,22 @@
+Task: Explore in Google and Make a document :
+
+1. What is kernel ?
+2. Why we create kernel?
+3. What is library in python?
+4. What is package in python?
+5. What is difference between library and package in python?
+6. how to create a my name in python jupyter(syntax)?
+7. What is difference between "string" and "int" data types in python?
+8. What is "syntax error: EOL error" in python?
+
+Task: Explore in Google and Make a document :
+
+1. What is kernel ?
+2. Why we create kernel?
+3. What is library in python?
+4. What is package in python?
+5. What is difference between library and package in python?
+6. how to create a my name in python jupyter(syntax)?
+7. What is difference between "string" and "int" data types in python?
+8. What is "syntax error: EOL error" in python?
+
